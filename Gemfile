@@ -42,7 +42,8 @@ gem 'jbuilder', '~> 2.5'
 # Use Jquery Slick for the slick slider
 gem "jquery-slick-rails"
 gem 'wow-rails'
-gem 'sqlite3'
+#gem 'sqlite3'
+gem 'pg'
 
 
 group :development, :test do
