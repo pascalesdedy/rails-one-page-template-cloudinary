@@ -1,2 +1,2 @@
-#rails-one-page-template-cloudinary.
-Using gem Cloudinary for storing assets.
+##rails-one-page-template-cloudinary.##
+Using Cloudinary gem for delivering static images through a CDN
